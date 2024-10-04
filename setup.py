@@ -5,7 +5,7 @@ from trench import __version__
 
 setup(
     name="django-trench",
-    version=__version__,
+    version="0.3.1",
     packages=find_packages(exclude=("testproject", "testproject.*")),
     include_package_data=True,
     license="MIT License",
